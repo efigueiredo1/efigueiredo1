@@ -7,10 +7,4 @@ Engenheiro com 9 anos de experiência em automação industrial, destacando-se n
 
 #### Principais interesses:
 
-:electric_plug: CLP
-
-:pager: IHM
-
-:computer: SCADA
-
-:globe_with_meridians: IEC 61131-3
+:electric_plug: CLP | :pager: IHM | :computer: SCADA | :globe_with_meridians: IEC 61131-3
